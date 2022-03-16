@@ -19,7 +19,7 @@ npm install express
 # Usage: 
 > This project has a very simple user interface.
 
-After installing all the packages you will need to run it by using node index.js from the root folder of the project. After runnin node index.js open a browser (it is recommended to open a new browser in Incognito mode) and go to localhost:3000. Port 3000 is the default port for this project.
+After installing all the packages you will need to run it by using "node index.js" from the root folder of the project (withouth the double quotes). After running node index.js open a browser (it is recommended to open a new browser in incognito mode) and go to localhost:3000. Port 3000 is the default port for this project.
 
 # Support: 
 > For additional support below is my email. Include the title in your email "Help BadBankGoogleLoginV1".
