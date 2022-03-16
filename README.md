@@ -7,6 +7,10 @@ This is an update to the BadBank project. It is an activity for MITx Pro FullSta
 
 It still needs some refinement but the main functionality that I wanted to include (GoogleLogin) is implemented. This is an activity for week 27 of MITx Pro FullStack WebDev program. The idea is the project is to provide a WebApp with basic Bank functionality such as add, withdraw money, login, logout, and view historical data.
 
+# Demo:
+
+This site a short demo video of the added functionality [Google Login](https://youtu.be/h2LKMysY-Pc).
+
 # Installation: 
 > There are a few things you need in order to run this project.
 
