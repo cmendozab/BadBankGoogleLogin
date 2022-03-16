@@ -21,6 +21,15 @@ npm install express
 
 After installing all the packages you will need to run it by using "node index.js" from the root folder of the project (withouth the double quotes). After running node index.js open a browser (it is recommended to open a new browser in incognito mode) and go to localhost:3000. Port 3000 is the default port for this project.
 
+# Technology Stack:
+Javascript
+React
+Bootstrap 4.5.2
+Express 4.17.3
+Firebase 9.6.8
+Firebase-admin 10.0.2
+CORS 2.8.5
+
 # Support: 
 > For additional support below is my email. Include the title in your email "Help BadBankGoogleLoginV1".
 
