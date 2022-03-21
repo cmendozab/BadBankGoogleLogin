@@ -9,7 +9,7 @@ It still needs some refinement but the main functionality that I wanted to inclu
 
 # Demo:
 
-This site a short demo video of the added functionality [Google Login](https://youtu.be/h2LKMysY-Pc).
+This is a short demo video of the added functionality [Google Login](https://youtu.be/h2LKMysY-Pc).
 
 # Installation: 
 > There are a few things you need in order to run this project.
