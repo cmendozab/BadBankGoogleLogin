@@ -47,7 +47,7 @@ In the future I would like to:
 - [ ] Hide menu items before login in to the BadBank.
 - [ ] Complete the integration of the middle tier (server) properly.
 - [ ] Add a database to add new users and maybe even operations per users.
-- [ ] Add basic reports capabilitis suchs historical data.
+- [ ] Add basic reports capabilities suchs historical data.
 
 # License information: 
 > MIT License
